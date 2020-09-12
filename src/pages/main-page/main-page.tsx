@@ -7,7 +7,7 @@ export const MainPage: React.FC<{}>  = ():ReactElement => {
 
     return (
         <div>
-            CGS Приветики
+            Тестовый проектик
         </div>
     )
 }
